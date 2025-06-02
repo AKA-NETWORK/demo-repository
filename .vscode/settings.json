@@ -1,3 +1,8 @@
 {
-    "markdown.validate.enabled": true
+    "markdown.validate.enabled": true,
+    "github.codespaces.defaultExtensions": [
+        
+        "GitHub.codespaces",
+        "GitHub.vscode-pull-request-github"
+    ]
 }
