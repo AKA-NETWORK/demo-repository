@@ -2,6 +2,7 @@
     "recommendations": [
         "github.copilot",
         "coder.coder-remote",
-        "github.codespaces"
+        "github.codespaces",
+        "github.vscode-github-actions"
     ]
 }
