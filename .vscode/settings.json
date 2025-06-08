@@ -1,8 +1,18 @@
 {
     "markdown.validate.enabled": true,
     "github.codespaces.defaultExtensions": [
-        
+
         "GitHub.codespaces",
         "GitHub.vscode-pull-request-github"
     ]
 }
+name: cautious-sniffle
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
